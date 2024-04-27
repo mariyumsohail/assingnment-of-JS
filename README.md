@@ -1,0 +1,2 @@
+# assingnment-of-JS
+Alerts
